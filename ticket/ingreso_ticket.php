@@ -32,7 +32,7 @@
                 </div>
                 <div class="mb-3">
                     <label for="">Inserte Imagen</label>
-                    <input type="file" name="file" id="file"class="form-control">
+                    <input type="file" name="file" id="file"class="form-control" accept="image/*">
                 </div>
                 <div class="mb-3">
                     <label for="prioridad">Prioridad del Ticket</label>
